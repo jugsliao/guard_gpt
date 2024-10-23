@@ -1,7 +1,7 @@
 import openai
 from guard import *
 
-openai.api_key = "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"
+openai.api_key = #place your openai api key here
 
 def get_bot_response(user_input):
     context = """"You are an interesting game character who answers any question given to you.
